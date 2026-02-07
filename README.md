@@ -124,13 +124,6 @@ ML framework using **Scikit-learn** to detect Alzheimer's indicators. Benchmarke
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Aishwary0402/Aishwary0402/output/github-contribution-grid-snake.svg)
-
----
-
-
 # 🔥 What I'm Working On
 
 - 🧬 **Fine-tuning** of a transformer Model
