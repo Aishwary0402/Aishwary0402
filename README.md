@@ -124,26 +124,6 @@ ML framework using **Scikit-learn** to detect Alzheimer's indicators. Benchmarke
 
 ---
 
-# 📊 GitHub Analytics
-
-![](https://img.shields.io/badge/Total_Contributions-Active-1E90FF?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Current_Streak-Building-purple?style=for-the-badge)
-![](https://img.shields.io/badge/Research_Projects-6+-blue?style=for-the-badge)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwary0402&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwary0402&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwary0402&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Aishwary0402/Aishwary0402/output/github-contribution-grid-snake.svg)
