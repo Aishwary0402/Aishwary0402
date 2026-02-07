@@ -6,8 +6,8 @@
 
 # 👨‍💻 About Me
 
-I am a **Data Science Master's Student & AI Researcher** with a strong foundation in  
-**Deep Learning, Generative AI, and Transformer Architectures**, currently pursuing my  
+I am a **Data Science Master's Student & AI Enthusiast** with a strong foundation in  
+**Deep Learning, Machine Learning, Generative AI, and Transformer Architectures**, currently pursuing my  
 **M.Sc. in Data Science** at Christ University, Bangalore.
 
 My work spans across:
@@ -150,15 +150,10 @@ ML framework using **Scikit-learn** to detect Alzheimer's indicators. Benchmarke
 
 ---
 
-## ✍️ Random Dev Quote
-
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
 
 # 🔥 What I'm Working On
 
-- 🧬 Research in **Multimodal Sentiment Analysis** with Transformer Models
+- 🧬 **Fine-tuning** of a transformer Model
 - 🔍 **Explainable AI** for Healthcare Applications
 - 🤖 Building **AI Agents** with LangChain & LangGraph
 - 📊 **Graph Analytics** & Optimization Algorithms
